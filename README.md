@@ -87,3 +87,25 @@ The resulting scores are evaluated using failure detection metrics and selective
 The notebooks contain the complete experimental pipelines used to extract uncertainty signals, construct the MUSE feature representation, train the synthesis layer, and evaluate failure prediction performance.
 
 All model backbones, datasets, evaluation settings, and random seeds should be specified in the corresponding notebook configuration before execution.
+
+
+Datasets:
+| Dataset                              | URL / DOI                                                                                                                        |
+| ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
+| Flowers-102                          | [https://www.robots.ox.ac.uk/~vgg/data/flowers/102/](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/)                         |
+| EuroSAT                              | [https://doi.org/10.5281/zenodo.7711810](https://doi.org/10.5281/zenodo.7711810)                                                 |
+| Caltech-101                          | [https://doi.org/10.1109/CVPR.2004.383](https://doi.org/10.1109/CVPR.2004.383)                                                   |
+| CIFAR-10 / CIFAR-100                 | [https://www.cs.toronto.edu/~kriz/learning-features-2009-TR.pdf](https://www.cs.toronto.edu/~kriz/learning-features-2009-TR.pdf) |
+| UEC Food-100                         | [https://doi.org/10.1007/s00530-023-01088-9](https://doi.org/10.1007/s00530-023-01088-9)                                         |
+| UCF-101                              | [https://doi.org/10.48550/arXiv.1212.0402](https://doi.org/10.48550/arXiv.1212.0402)                                             |
+| DTD                                  | [https://www.robots.ox.ac.uk/~vgg/data/dtd/](https://www.robots.ox.ac.uk/~vgg/data/dtd/)                                         |
+| Food-101                             | [https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101/](https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101/)       |
+| Oxford-IIIT Pet                      | [https://doi.org/10.1109/CVPR.2012.6248092](https://doi.org/10.1109/CVPR.2012.6248092)                                           |
+| Stanford Cars                        | [https://doi.org/10.1109/CVPR.2015.7299023](https://doi.org/10.1109/CVPR.2015.7299023)                                           |
+| SUN397                               | [https://doi.org/10.1109/CVPR.2010.5539970](https://doi.org/10.1109/CVPR.2010.5539970)                                           |
+| FGVC Aircraft                        | [https://www.robots.ox.ac.uk/~vgg/data/fgvc-aircraft/](https://www.robots.ox.ac.uk/~vgg/data/fgvc-aircraft/)                     |
+| UCI Multimodal Damage Identification | [https://doi.org/10.24432/C52P6P](https://doi.org/10.24432/C52P6P)                                                               |
+| MHII                                 | [https://doi.org/10.1007/s40747-024-01635-5](https://doi.org/10.1007/s40747-024-01635-5)                                         |
+| CrisisMMD                            | [https://arxiv.org/abs/1805.00713](https://arxiv.org/abs/1805.00713)                                                             |
+| ASONAM17 Building Damage             | [https://doi.org/10.1145/3110025.3110109](https://doi.org/10.1145/3110025.3110109)                                               |
+
