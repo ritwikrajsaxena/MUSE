@@ -105,7 +105,7 @@ Datasets:
 | SUN397                               | [https://doi.org/10.1109/CVPR.2010.5539970](https://doi.org/10.1109/CVPR.2010.5539970)                                           |
 | FGVC Aircraft                        | [https://www.robots.ox.ac.uk/~vgg/data/fgvc-aircraft/](https://www.robots.ox.ac.uk/~vgg/data/fgvc-aircraft/)                     |
 | UCI Multimodal Damage Identification | [https://doi.org/10.24432/C52P6P](https://doi.org/10.24432/C52P6P)                                                               |
-| MHII                                 | [https://doi.org/10.1007/s40747-024-01635-5](https://doi.org/10.1007/s40747-024-01635-5)                                         |
+| MHII                                 | https://doi.org/10.1016/j.ipm.2022.102977                                        |
 | CrisisMMD                            | [https://arxiv.org/abs/1805.00713](https://arxiv.org/abs/1805.00713)                                                             |
 | ASONAM17 Building Damage             | [https://doi.org/10.1145/3110025.3110109](https://doi.org/10.1145/3110025.3110109)                                               |
 
